@@ -1,0 +1,64 @@
+#generateButton {
+    position: relative;
+    right: 40px;
+    background-color: #6A9FD4;
+    width: 155px;
+    height: 45px;
+    border-radius: 12px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+#generateButton:hover {
+    background-color: #6394C4;
+}
+
+#resetButton {
+    position: relative;
+    left: 40px;
+    background-color: #C93E3E;
+    width: 155px;
+    height: 45px;
+    border-radius: 12px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+#resetButton:hover {
+    background-color: #A53C3C;
+}
+
+.m-0 {
+    font-family: monospace;
+    font-size: 23px;
+    color: #45AE5E;
+}
+
+
+#genderOutput {
+    font-style:italic;
+    font-size: 20px;
+}
+
+#birthDateOutput {
+    font-style:italic;
+    font-size: 20px;
+}
+
+#professionOutput {
+    font-style:italic;
+    font-size: 20px;
+}
+
+#profession {
+    font-size:20px;
+    position: relative;
+    height: 50px;
+}
+
+
+#gender {
+    font-size:20px;
+    position: relative;
+    height: 30px;
+}
